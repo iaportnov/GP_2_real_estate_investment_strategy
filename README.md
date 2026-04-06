@@ -1,0 +1,1 @@
+# GP_2_real_estate_investment_strategy
