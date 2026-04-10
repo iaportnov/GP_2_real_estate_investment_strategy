@@ -73,7 +73,7 @@
 - `population_16P_Unemployed_Male_Pct` – доля безработных мужчин 16+ лет.
 - `population_16P_Unemployed_Female_Pct` – доля безработных женщин 16+ лет.
 
-##6. Жилищный фонд и тип застройки
+## 6. Жилищный фонд и тип застройки
 - `housing_Units_Renter_Occupied_Pct` – доля арендного жилья среди занятых жилых единиц.
 - `housing_Units_Vacant_Pct` – доля пустующего жилья.
 - `housing_Median_Built_Yr` – медианный год постройки жилого фонда.
